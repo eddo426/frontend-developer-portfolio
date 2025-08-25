@@ -34,7 +34,7 @@ const projects = [
 	},
 	{
 		title: 'DnD Dice Roller',
-		description: 'A multi-dice roller ready to be used in your next D&D adventure! Buit with HTML, CSS and JavaScript.',
+		description: 'A multi-dice roller ready to be used in your next D&D adventure! Built with HTML, CSS and JavaScript.',
 		image: '/dnd-dice-roller.png',
 		tags: ['JavaScript', 'CSS', 'HTML'],
 		page: 'https://dnd-dice-roller-eddo426.netlify.app/',
